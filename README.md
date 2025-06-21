@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/divyashah3899/)  
 📫 **Email:** divya.s@mymailshub.com  
-📍 Based in New York, NY | Open to remote and hybrid opportunities
+📍 Based in the United States | Open to remote and hybrid opportunities
 
 ---
 
