@@ -52,8 +52,8 @@ From fintech solutions at **Citigroup** to product innovation at **Simform**, Iâ
 
 ## ðŸ“ˆ Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyashah3899&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyashah3899&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divya-shah-sde&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divya-shah-sde&layout=compact)
 
 ---
 
