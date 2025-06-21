@@ -17,7 +17,7 @@ From fintech solutions at **Citigroup** to product innovation at **Simform**, I�
 - 🔧 Proficient in **Java, JavaScript, C#, TypeScript, SQL**
 - ☁️ Experienced with **AWS (EC2, Lambda, RDS, S3)** and **Azure**
 - 🐳 Skilled with **Docker, Kubernetes, GitHub Actions, Jenkins**
-- 🧪 Advocate for **Test-Driven Development** with tools like JUnit, Jest, Cypress
+- 🧪 Advocate for **Test-Driven Development** with tools like JUnit, NUnit,Jest, Cypress
 - 📚 M.S. in Computer Science, **New York Institute of Technology**
 
 ---
