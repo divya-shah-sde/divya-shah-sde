@@ -1,24 +1,25 @@
 # 👩‍💻 Divya Shah
 
-**Data Engineer | Cloud Data Architect | Big Data Specialist**
+**Senior Software Engineer | Full-Stack Developer | Cloud-Native & AI Solutions**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/divyashah3899/)  
-📫 **Email:** divya.s@protectmymails.com  
-📍 Based in the United States | Open to remote and hybrid opportunities
+📫 **Email:** divya.shah@savemymails.com  
+📍 Based in the United States | Open to Relocate
 
 ---
 
 ## 🚀 About Me
 
-I'm a results-driven **Data Engineer** with **4+ years of experience** building and optimizing data architectures, pipelines, and integrations across AWS, Azure, and multicloud environments. I specialize in ETL design, cloud migration, and real-time data integration for enterprise and government clients.
+I'm a results-driven **Senior Software Engineer** with **4.5+ years of experience** building AI-enabled, cloud-native systems across finance and retail domains. I specialize in designing scalable microservices, event-driven architectures, and full-stack applications that deliver measurable business impact.
 
-From leading enterprise data architecture at **JP Morgan Chase & Co.** to building scalable ML pipelines at **Hexaware Technologies**, I've delivered robust, compliant, and high-performing data solutions that enable actionable insights at scale.
+From architecting credit risk pipelines with RAG and LangChain at **JP Morgan Chase & Co.** to building high-throughput order management systems at **KPIT Technologies**, I've delivered robust, secure, and high-performing solutions that power enterprise operations at scale.
 
-- 🔧 Proficient in **Python, SQL, PySpark, Scala, Java**
-- ☁️ Expert in **AWS (EMR, S3, Lambda, Glue, Redshift, Athena)** and **Azure (Databricks, Data Factory, Data Lake)**
-- 🔄 Experienced with **Apache Airflow, Apache Kafka, Apache Spark, Databricks**
-- 📊 Skilled in **Snowflake, Redshift, Power BI, Tableau**
-- 🏗️ Strong foundation in **Data Modeling, Data Warehousing, ETL/ELT Design**
+- 🔧 Proficient in **Java, Python, TypeScript, JavaScript, SQL, C++**
+- ⚙️ Expert in **Spring Boot, Microservices, RESTful APIs, GraphQL, Node.js**
+- ☁️ Skilled in **AWS (EC2, S3, Lambda, RDS, DynamoDB), Docker, Kubernetes, Terraform**
+- 🔄 Experienced with **Apache Kafka, RabbitMQ, Event-Driven Architecture**
+- 💻 Frontend expertise in **React.js, Angular, Next.js, Redux, Tailwind CSS**
+- 🤖 Applied AI/ML with **LangChain, GPT, BERT, RAG, MLflow**
 - 📚 M.S. in Computer Science, **New York Institute of Technology**
 
 ---
@@ -27,34 +28,33 @@ From leading enterprise data architecture at **JP Morgan Chase & Co.** to buildi
 
 - **AWS Certified Developer – Associate** *(Valid Until June 2028)*  
 - **AWS Certified Cloud Practitioner** *(Valid Until June 2028)*  
-- **Enterprise Data Architecture Leadership**  
-  *Led end-to-end data architecture for State of Hawaii Child Welfare Modernization Program*
-- **Performance Optimization Expert**  
-  *Improved query performance by 20% and reduced transformation latency by 43%*
+- **AI-Powered Enterprise Solutions**  
+  *Built RAG workflows enabling analysts to query 4M+ regulatory documents with source-attributed responses*
+- **Cloud Cost Optimization**  
+  *Reduced infrastructure and storage costs by $70K annually through AWS optimizations*
+- **High Availability Systems**  
+  *Maintained 99.8% service uptime across 18+ microservices*
 
 ---
 
 ## 💼 Work Experience Highlights
 
-### 💼 JP Morgan Chase & Co. | Data Engineer
-- Led end-to-end **Data Architecture and Integration Strategy** for multi-year digital transformation initiative
-- Designed enterprise-grade **Data Warehouse Architecture** using star-schema models, improving query performance by 20%
-- Built automated, serverless **data ingestion pipelines on AWS (S3, Lambda)** with encryption and audit mechanisms
-- Developed **REST and SOAP APIs on Boomi Integration Platform** for secure, real-time bi-directional data exchange
-- Optimized complex SQL queries and ETL validation frameworks, ensuring 98% accuracy across 50M+ records
+### 💼 JP Morgan Chase & Co. | Senior Software Engineer
+- Contributed to the design of a **Java Spring Boot–based distributed platform** supporting enterprise credit risk and operational resiliency use cases
+- Designed modular system architectures applying **service isolation, asynchronous workflows, idempotent APIs**, and graceful degradation patterns
+- Implemented **thread-safe processing components** using Java concurrency utilities for parallel risk evaluations across 15–20 independent business workflows
+- Built **RAG workflows using LangChain and OpenAI APIs**, enabling analysts to query 4M+ regulatory documents with source-attributed responses
+- Provisioned cloud infrastructure using **Terraform**, authoring reusable IaC modules for 40+ backend services across Kubernetes clusters
+- Developed **React-based dashboards** visualizing risk indicators and model outputs for 200+ internal analysts
 
-### 🔧 Hexaware Technologies | Data Engineer
-- Engineered scalable **ETL and ML pipelines on Azure Databricks** using PySpark and Python for terabyte-scale datasets
-- Automated data validation and transformation workflows, reducing manual workload by 30%
-- Designed end-to-end **"Email Modeling" pipeline** with AutoML and hyperparameter optimization
-- Applied MLOps practices, reducing model time-to-production from 3 weeks to 5 days
-- Developed interactive **Tableau and Power BI dashboards** driving 20% increase in conversion rates
-
-### 🚀 KPIT Technologies | Junior Data Engineer
-- Built 15+ **Apache Airflow DAGs** and 50+ BMC Control-M workflows achieving 99.8% on-time success rate
-- Engineered **ETL pipelines using Apache Spark** on AWS EMR, improving data reliability by 20%
-- Designed **star-schema data models** consolidating 12+ source systems, boosting query performance by 35%
-- Optimized Redshift and Snowflake queries, reducing report times from 12 minutes to under 90 seconds
+### 🔧 KPIT Technologies | Software Engineer
+- Constructed **Spring Boot microservices** for retail order management, supporting 600K–900K daily order and inventory events
+- Engineered distributed backend services using **RESTful APIs and Kafka** for asynchronous processing across 30+ warehouses
+- Led database migration from **MySQL to PostgreSQL** with schema restructuring, achieving 35% improvement in query performance
+- Managed **Redis caching** for high-traffic endpoints, maintaining sub-150ms API response times during peak hours
+- Architected **Angular dashboards** for inventory visibility and order tracking, used by 250+ operations users daily
+- Deployed **AWS services (EC2, Lambda, S3)** reducing infrastructure costs by approximately $70K annually
+- Configured observability using **Prometheus and Grafana**, maintaining 99.8% service uptime
 
 ---
 
@@ -62,91 +62,112 @@ From leading enterprise data architecture at **JP Morgan Chase & Co.** to buildi
 
 ### Programming & Scripting
 <p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.scala-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/></a>
-  <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 </p>
 
-### Big Data & Distributed Computing
+### Backend & Distributed Systems
 <p align="left">
-  <a href="https://spark.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/></a>
-  <a href="https://hadoop.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></a>
-  <a href="https://hive.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+  <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
   <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
-  <a href="https://airflow.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="airflow" width="40" height="40"/></a>
-  <a href="https://databricks.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/></a>
+  <a href="https://www.rabbitmq.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/></a>
 </p>
 
-### Cloud Platforms
+### Frontend Technologies
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
+  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+  <a href="https://mui.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/></a>
+</p>
+
+### Cloud & DevOps
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-</p>
-
-### Databases & Data Warehouses
-<p align="left">
-  <a href="https://www.snowflake.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://cassandra.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/></a>
-</p>
-
-### Data Analytics & Visualization
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-  <a href="https://www.tableau.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/></a>
-</p>
-
-### DevOps & Infrastructure
-<p align="left">
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
   <a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a>
+  <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+</p>
+
+### Databases & Data Stores
+<p align="left">
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_dynamodb/amazon_dynamodb-icon.svg" alt="dynamodb" width="40" height="40"/></a>
+  <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
+  <a href="https://www.elastic.co" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>
+</p>
+
+### AI & Machine Learning
+<p align="left">
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.ico" alt="langchain" width="40" height="40"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/></a>
+  <a href="https://mlflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mlaboratoryai/mlaboratoryai-icon.svg" alt="mlflow" width="40" height="40"/></a>
+</p>
+
+### Observability & Testing
+<p align="left">
+  <a href="https://prometheus.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/></a>
+  <a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
+  <a href="https://www.cypress.io" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></a>
+  <a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
+  <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
 </p>
 
 ---
 
 ## 🔧 Core Competencies
 
-**Data Engineering**
-- ETL/ELT Pipeline Development
-- Data Modeling & Warehousing
-- Real-time Data Streaming
-- Data Quality & Governance
-- Master Data Management (MDM)
+**Backend & Distributed Systems**
+- Microservices Architecture
+- RESTful APIs & GraphQL
+- Event-Driven Architecture (Kafka, RabbitMQ)
+- Concurrent & Multithreaded Programming
+- System Design (HLD/LLD)
 
-**Cloud & Big Data**
-- AWS Data Services (EMR, Glue, Redshift, Athena, S3, Lambda)
-- Azure Data Platform (Databricks, Data Factory, Data Lake)
-- Apache Spark, Kafka, Airflow
-- Snowflake, Redshift
+**Cloud & Infrastructure**
+- AWS Services (EC2, S3, Lambda, RDS, DynamoDB, API Gateway)
+- Docker & Kubernetes
+- Terraform & Infrastructure as Code
+- CI/CD Pipelines (Jenkins)
+- Observability (Prometheus, Grafana)
 
-**Analytics & ML**
-- Machine Learning Pipelines
+**Frontend Development**
+- React.js, Angular, Next.js
+- Redux Toolkit & State Management
+- Tailwind CSS & Material UI
+- Responsive UI Development
+
+**AI & Applied ML**
+- Retrieval-Augmented Generation (RAG)
+- LangChain & Prompt Engineering
+- GPT & BERT Integration
 - MLOps & Model Deployment
-- Statistical Modeling
-- Predictive Analytics
-- Data Visualization
 
 ---
 
 ## 📂 Featured Projects
-> Check out pinned repositories below for real-world, production-grade data engineering work!
 
-**Key Project Areas:**
-- 🏗️ Enterprise Data Warehouse Design & Migration
-- 🔄 Real-time Streaming Data Pipelines
-- 🤖 ML Model Deployment & Automation
-- 📊 Advanced Analytics & Dashboards
-- ☁️ Cloud-Native Data Solutions
+### 🏦 AI-Assisted Banking Fraud Monitoring System
+**Tech:** Java Spring Boot, Spring Security, PostgreSQL, GPT API
+- Built a secure transaction monitoring system processing simulated banking transactions for 3,000+ customer accounts
+- Integrated GPT-based service to generate human-readable risk explanations, reducing fraud analyst investigation time by 40%
+
+### 🛒 Retail Inventory & Order Management Platform
+**Tech:** Java Spring Boot, React, PostgreSQL, Redis
+- Developed a full-stack retail inventory management system managing 5,000+ products with real-time stock tracking
+- Orchestrated automated reorder workflows backed by Redis-based synchronization, improving inventory accuracy by 25%
 
 ---
 
@@ -160,9 +181,10 @@ From leading enterprise data architecture at **JP Morgan Chase & Co.** to buildi
 ## 🤝 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/divyashah3899/)
-- 📬 Email: divya.s@protectmymails.com
-- 🔍 Actively seeking Data Engineering or Cloud Data Architect roles
+- 🌐 [Portfolio](https://divya-shah-portfolio.com)
+- 📬 Email: divya.shah@savemymails.com
+- 🔍 Actively seeking Senior Software Engineer or Full-Stack Developer roles
 
 ---
 
-> *"Data is the new oil, but like oil, it needs to be refined to create value." – Clive Humby*
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler*
